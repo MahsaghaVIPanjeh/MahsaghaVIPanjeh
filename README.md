@@ -1,4 +1,4 @@
-# Introduction
+# Introduction :
 
 I'am Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean University) in Cyprus.I worked as a Teaching Assistant in EMU for 1 year.
 
@@ -10,13 +10,14 @@ I'am Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean Univers
 
 <br/><br/>
 
-# Contact info
+# Contact info :
+[<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/mahsa-ghavipanjeh-torkamani-aabb7b231/)
 [<img align="left" alt="LinkedIn" width="80" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/mahsa-ghavipanjeh-torkamani-aabb7b231/)
 
 <br/><b/><br/><br/>
 
 
-# Languages and Tools
+# Languages and Tools :
 <img align="left" alt="Numpy" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
 <img align="left" alt="Pandas" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />
 <img align="left" alt="Matplotlib" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
