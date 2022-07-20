@@ -31,7 +31,7 @@ I'am Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean Univers
 <br/>
 <img align="left" alt="Java" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<br>
+<br/>
 <img align="left" alt="Sklearn" width="150px" height="80px" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" />
 
 <br/><br/><br/><br/><br/><br/><br/>
