@@ -17,9 +17,23 @@ I'am Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean Univers
 
 
 # Languages and Tools
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Numpy" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
+<img align="left" alt="Pandas" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />
+<img align="left" alt="Matplotlib" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
+<img align="left" alt="Keras" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/keras.svg" />
+<img align="left" alt="Python"width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="SQL" width="50px" height="30px"" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="C" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
+<img align="left" alt="HTML" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="PHP" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
+<img align="left" alt="CSS" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Javascript" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Java" width="50px" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
-<br/><br/><br/>
+<br>
+<img align="left" alt="Sklearn" width="150px" height="80px" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" />
+
+<br/><br/><br/><br/><br/><br/><br/>
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahsaghaVIPanjeh&theme=noctis-minimus)](https://git.io/streak-stats)
