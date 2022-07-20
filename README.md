@@ -13,10 +13,11 @@ I'm Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean Universi
 # Contact info :
 [<img align="left" alt="LinkedIn" width="120" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/mahsa-ghavipanjeh-torkamani-aabb7b231/)
 
-<br/><b/><br/><br/>
+<br/><b/><br/>
 
 
 # Languages and Tools :
+<br/>
 <img align="left" alt="Numpy" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/numpy.svg" />
 <img align="left" alt="Pandas" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" />
 <img align="left" alt="Matplotlib" width="80px" height="30px" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg" />
@@ -32,7 +33,7 @@ I'm Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean Universi
 <img align="left" alt="Sklearn" width="150px" height="80px" src="https://github.com/valohai/ml-logos/blob/master/scikit-learn.svg" />
 
 <br/><br/><br/><br/><br/><br/><br/>
-
+# GitHub Stats :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MahsaghaVIPanjeh&theme=noctis-minimus)](https://git.io/streak-stats)
 
