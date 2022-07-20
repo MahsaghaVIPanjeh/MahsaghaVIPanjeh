@@ -1,6 +1,6 @@
 # Introduction
 
-I'am Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean University) in Cyprus.I work as a Teaching Assistant in EMU for 1 year.
+I'am Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean University) in Cyprus.I worked as a Teaching Assistant in EMU for 1 year.
 
 - 🔭 I’m currently working on some basic projects to improve my ML,DL and data Analysis skills by using Python.  
 - 🌱 I’m currently learning Machine Learning,Deep Learning and AL by using R.
