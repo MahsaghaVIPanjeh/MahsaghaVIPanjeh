@@ -2,8 +2,8 @@
 
 I'm Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean University) in Cyprus.I worked as a Teaching Assistant in EMU for 1 year.
 
-- 🔭 I’m currently working on some basic projects to improve my Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI) and data Analysis skills by using Python.  
-- 🌱 I’m currently learning ML ,DL and AI by using R programming language.
+- 🔭 I’m currently working on some projects to improve my Machine Learning (ML), Deep Learning (DL), Artificial Intelligence (AI) and data Analysis skills by using Python.  
+- 🌱 I know how to apply ML, AI and DL models by using Python and basic R programming language.
 - 👯 I’m looking for a job as an Data Scientist
 - 🏅 I'm an Oracle Database SQL Certified Associate.
 - ⚡ I'm fourlingual: English , Turkish , Azari and Farsi(Persian)
