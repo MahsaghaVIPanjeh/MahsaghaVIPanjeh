@@ -11,7 +11,7 @@ I'm Mahsa Ghavipanjeh. I'm IT graduated from EMU (Eastern Mediterranean Universi
 <br/><br/>
 
 # Contact info :
-[<img align="left" alt="LinkedIn" width="120" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/mahsa-ghavipanjeh-torkamani-aabb7b231/)
+[<img align="left" alt="LinkedIn" width="120" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" />](https://www.linkedin.com/in/mahsa-torkamani-aabb7b231?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BjQpCix4BRwCjTpA2SSOouQ%3D%3D)
 
 <br/><b/><br/>
 
